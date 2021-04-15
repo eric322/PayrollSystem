@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PayrollSystem": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
