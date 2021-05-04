@@ -1,9 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace PayrollSystem
 {
+
     class Program
     {
+        public static List<string> schedule = new List<string>()
+        {"MONDAY","TUESDAY","WEDNESDAY","THURSDAY","SATURDAY"};
+
         static void Main(string[] args)
         {
             string employeeA = "Michael Jackson";
